@@ -37,7 +37,7 @@ if option == 1:
 			time.sleep(2)
 	 print 'Hacking Nasa............100%  complete'
 			time.sleep(2)
-	  print 'You Hacked Nasa Successfully'
+	  print 'You Hacked Nasa Successfully! Now You are a Hacker'
    
 else:
    system('clear')
